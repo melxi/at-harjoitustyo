@@ -1,4 +1,4 @@
-# Harjoitustyö tag
+# Harjoitustyö
 
 ## Laskarit
 
